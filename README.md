@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png)
 <h1 align="center">Hi 👋, I'm Hasir Ali🔭</h1>
 <h3 align="center">A passionate frontend developer from India completed his Bachelor of Technology from United College of Engineering and Research, Specialization in Information Technology</h3>
 <img
